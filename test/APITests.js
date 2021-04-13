@@ -1,7 +1,5 @@
-import supertest from 'supertest';
+import request from "../config/common.js";
 import {expect} from "chai";
-
-const request = supertest('https://jsonplaceholder.typicode.com/');
 
 describe('API tests JSONplaceholder', () =>{
     let userId;
