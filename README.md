@@ -25,5 +25,4 @@ npm test
 ```
 
 ## HTML Report
-Report will be automatically generated to mochawesome-reporter folder.
-mochawesome.html can be easily viewed via browser.
+Report will be automatically generated to mochawesome-reporter folder. Mochawesome.html can be easily viewed via browser.
