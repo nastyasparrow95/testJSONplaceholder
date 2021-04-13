@@ -1,4 +1,4 @@
-# Using this small Test automation repo
+# Using testJSONplaceholder Test automation repo
 API tests for https://jsonplaceholder.typicode.com
 
 ## Tools
