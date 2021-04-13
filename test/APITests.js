@@ -31,7 +31,7 @@ describe('API tests JSONplaceholder', () =>{
             })
     });
 
-    it('Should fetch comments and validate author\'s emails', async() => {
+    it('Should fetch comments and validate authors emails', async() => {
         return await posts.forEach(post => {
             request
                 .get(`comments?postId=${post}`)
